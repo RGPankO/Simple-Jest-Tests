@@ -1,4 +1,4 @@
-const validatePostCode = require('./validatePostCode');
+const validatePostCode = require('./components/utils/validatePostCode');
 
 var window = {};
 window.components = {};
